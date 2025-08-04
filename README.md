@@ -6,3 +6,5 @@
 4. Q&A
 5. making new changes
 6. testing the git pull
+
+# this is new example for git log.
