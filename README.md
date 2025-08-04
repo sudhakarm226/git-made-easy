@@ -5,3 +5,4 @@
 3. other information
 4. Q&A
 5. making new changes
+6. testing the git pull
